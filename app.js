@@ -12,7 +12,7 @@ function getInfo(){
         template += `
             <div class="card">
                 <a href="#" class="borrar">X</a>
-                <img src="${infoPerrito.imagen}" alt="perro 1">
+                <img src=${infoPerrito.imagen} alt="perro 1">
                 <h3>Nombre: <span>${infoPerrito.nombre}</span></h3>
                 <h3>Telefono: <span>${infoPerrito.telefono}</span></h3>
                 <h3>Pais: <span>${infoPerrito.pais}</span></h3>
