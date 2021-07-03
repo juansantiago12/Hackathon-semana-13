@@ -1,5 +1,5 @@
 const infoPerritos = [
-    {   imagen: '/img/perro1.jpg',
+    {   imagen: 'img/perro1.jpg',
         nombre: 'Yorkshire terrier',
         telefono: 1234,
         pais: 'Inglaterra',
